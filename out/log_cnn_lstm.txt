@@ -1,0 +1,10 @@
+cnn_lstm {'test_subject': 1, 'acc': 0.7915451895043731, 'f1': 0.7412584689243259, 'epochs': 18, 'secs': 96.7}
+cnn_lstm {'test_subject': 2, 'acc': 0.8051948051948052, 'f1': 0.7483072552121897, 'epochs': 15, 'secs': 30.5}
+cnn_lstm {'test_subject': 3, 'acc': 0.8246376811594203, 'f1': 0.7797988022716362, 'epochs': 30, 'secs': 57.6}
+cnn_lstm {'test_subject': 4, 'acc': 0.9201741654571843, 'f1': 0.9147068992246309, 'epochs': 14, 'secs': 26.1}
+cnn_lstm {'test_subject': 5, 'acc': 0.9093655589123867, 'f1': 0.8888888888888888, 'epochs': 20, 'secs': 38.1}
+cnn_lstm {'test_subject': 6, 'acc': 0.9027113237639554, 'f1': 0.8860518566400919, 'epochs': 20, 'secs': 38.0}
+cnn_lstm {'test_subject': 7, 'acc': 0.8625377643504532, 'f1': 0.8344527609794786, 'epochs': 16, 'secs': 29.5}
+cnn_lstm {'test_subject': 8, 'acc': 0.8657407407407407, 'f1': 0.8483401627576819, 'epochs': 13, 'secs': 24.0}
+cnn_lstm {'test_subject': 9, 'acc': 0.9104477611940298, 'f1': 0.8875968992248063, 'epochs': 26, 'secs': 49.2}
+cnn_lstm {'test_subject': 10, 'acc': 0.8919330289193302, 'f1': 0.866901339488101, 'epochs': 19, 'secs': 36.4}
